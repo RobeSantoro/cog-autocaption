@@ -1,5 +1,5 @@
 # Cog ⚙️ Autocaption
-This is a [https://cog.run](Cog) implementation of [https://github.com/fictions-ai/autocaption](autocaption).
+This is a [Cog](https://cog.run) implementation of [autocaption](https://github.com/fictions-ai/autocaption).
 
 
 ##  Installation
